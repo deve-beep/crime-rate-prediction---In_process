@@ -1,5 +1,5 @@
 # Crime Rate Predictor - Unlock Safety: Reduce Crime Rate Together
-<img src="Screenshot 2026-01-16 004915.png">
+<img src="CRP.png">
 Crime Rate Predictor is an application that uses machine learning techniques to predict crime rates in 19 Indian metropolitan cities. The goal of this project is to assist law enforcement agencies in understanding crime patterns and allocating resources effectively to reduce crime rates and improve public safety.
 
 ## About the Application
@@ -9,6 +9,8 @@ Crime rate prediction has become an important tool for law enforcement agencies 
 The dataset is prepared manually based on the publication available on the Indian National Crime Rate Bureau (NCRB) official website. This data provides statistics on crimes committed in 19 metropolitan cities during the year 2014 to 2021. With the help of this application, we can predict the crime rates for 10 different categories of crime that are likely to occur in 19 Indian metropolitan cities over the next few years. It includes statistics on 10 different categories of crime, including murder, kidnapping, crime against women, crime against children, crime committed by juveniles, crime against senior citizens, crime against SC, crime against ST, economic offences, and cybercrimes.
 
 The system uses scikit-learn's Random Forest Regression model, which takes year, city name, and crime type data as inputs. Random Forest Regression is a type of an ensemble learning techniques that can be used to predict continuous values from a collection of data. It works by creating a large number of "decision trees" which each make a prediction about the target variable. Then it averages all the predictions to come up with a final prediction. This makes it more accurate than a single decision tree. The model predicts the crime rate with an accuracy of 93.20% on the testing dataset.
+
+A Folium heatmap visualizes crime intensity across locations, helping identify hotspots and patterns, supporting accurate crime rate prediction and better preventive decision-making by authorities.
 
 ## Features
 
@@ -23,7 +25,7 @@ The system uses scikit-learn's Random Forest Regression model, which takes year,
 1. Clone the repository:
 
    ```shell
-   git clone https://github.com/AbhayRautela213/Crime-Rate-Prediction.git
+   git clone https://github.com/deve-beep/Crime-Rate-Prediction.git
 
 2. Navigate to the project directory:
 
@@ -61,4 +63,4 @@ Please ensure that your contributions adhere to the project's coding conventions
 
 ## Contact
 
-If you have any questions, suggestions, or issues regarding this project, please feel free to [contact me](mailto:abhayrautela213@gmail.com).
+If you have any questions, suggestions, or issues regarding this project, please feel free to [contact me](mailto:ayushsrivastav201@gmail.com).
