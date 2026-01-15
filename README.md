@@ -16,7 +16,7 @@ A Folium heatmap visualizes crime intensity across locations, helping identify h
 
 - Crime rate prediction for 10 different categories of crime
 - Prediction for 19 Indian metropolitan cities
-- Historical crime data from 2014 to 2021
+- Historical crime data from 2014 to 2024
 - Random Forest Regression model for accurate predictions
 - Model accuracy of 93.20% on testing dataset
 
