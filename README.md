@@ -1,5 +1,5 @@
 # Crime Rate Predictor - Unlock Safety: Reduce Crime Rate Together
-<img src="">
+
 Crime Rate Predictor is an application that uses machine learning techniques to predict crime rates in 19 Indian metropolitan cities. The goal of this project is to assist law enforcement agencies in understanding crime patterns and allocating resources effectively to reduce crime rates and improve public safety.
 
 ## About the Application
